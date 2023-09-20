@@ -5,5 +5,3 @@ datetime
 timedelta
 mysql-connector-python
 plotly
-param
-threading
